@@ -1,2 +1,6 @@
-# Midterm1_blah
-First midterm project in iot
+#Midterm Blah 
+
+## What you'll need:
+
+	* Photon 2
+	*Computer
